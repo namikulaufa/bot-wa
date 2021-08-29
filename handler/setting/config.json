@@ -1,0 +1,19 @@
+{
+    "packName": "PENA BOT",
+    "authName": "Dibuat Oleh @arifirazzaq2001",
+    "handler": "./start/direct.js",
+    "participants": "./start/group.js",
+    "session": "./handler/session/session.json",
+    "rename": "./handler/session/session.json",
+    "ownerNumber": [
+        "6281261324817@s.whatsapp.net",
+        "62895622955527@s.whatsapp.net"
+    ],
+   "ownertunggal": "6281261324817",
+   "ownernama": "Arifi Razzaq",
+   "bufferReply": "./database/media/bufferReply/photoFakeStatus.jpeg",
+   "FacebookB" :"447710173736@s.whatsapp.net",
+   "whatsapp" :"0@s.whatsapp.net",
+   "revokedd": "6287822277146-1629287518@g.us",
+   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+   }
